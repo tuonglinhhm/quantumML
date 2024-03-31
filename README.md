@@ -1,10 +1,6 @@
 
-## Installation [Original librabry from Torchquantum
-```bash
-git clone https://github.com/mit-han-lab/torchquantum.git
-cd torchquantum
-pip install --editable .
-```
+## Installation [use Torchquantum library]
+
 
 ## Basic Usage
 
@@ -89,13 +85,13 @@ print(tq.measure(x, n_shots=2048))
 
 ## Guide to the examples
 
-We also prepare many example and tutorials using TorchQuantum.
+** [QNN for MNIST](examples/mnist) 
 
-For **beginning level**, you may check [QNN for MNIST](examples/mnist), [Quantum Convolution (Quanvolution)](examples/quanvolution) and [Quantum Kernel Method](examples/quantum_kernel_method), and [Quantum Regression](examples/regression).
+**[Quantum CNN)](examples/quanvolution)
 
-For **intermediate level**, you may check [Amplitude Encoding for MNIST](examples/amplitude_encoding_mnist), [Clifford gate QNN](examples/clifford_qnn), [Save and Load QNN models](examples/save_load_example), [PauliSum Operation](examples/PauliSumOp), [How to convert tq to Qiskit](examples/converter_tq_qiskit).
+**[Quantum Regression](examples/regression)
 
-For **expert**, you may check [Parameter Shift on-chip Training](examples/param_shift_onchip_training), [VQA Gradient Pruning](examples/gradient_pruning), [VQE](examples/vqe),  [VQA for State Prepration](examples/train_state_prep), [QAOA (Quantum Approximate Optimization Algorithm)](examples/qaoa).
+**[VQE](examples/vqe)
 
 
 ## Usage
@@ -243,21 +239,6 @@ pre-commit install
 [comment]: <> (python examples/eval.py examples/configs/vqe/h2/eval/x2/real/opt2/all.yml --run-dir=runs/vqe.h2.train.baseline.u3cu3_s0.human.param12/)
 
 [comment]: <> (```)
-
-
-
-
-- [IEEE ICDCS] [Yun et al., "Quantum Multi-Agent Reinforcement Learning via Variational Quantum Circuit Design"](https://ieeexplore.ieee.org/document/9912289)
-- [QCE'23] [Zhan et al., "Quantum Sensor Network Algorithms for Transmitter Localization"](https://ieeexplore.ieee.org/abstract/document/10313806)
-<details>
-  <summary>Manuscripts</summary>
-
-  ## Manuscripts
-
-  - [Yun et al., "Projection Valued Measure-based Quantum Machine Learning for Multi-Class Classification"](https://arxiv.org/abs/2210.16731)
-  - [Yun et al., "Quantum Multi-Agent Meta Reinforcement Learning"](https://arxiv.org/abs/2208.11510)
-
-</details>
 
 
 
