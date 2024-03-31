@@ -245,21 +245,6 @@ pre-commit install
 
 
 
-
-- [IEEE ICDCS] [Yun et al., "Quantum Multi-Agent Reinforcement Learning via Variational Quantum Circuit Design"](https://ieeexplore.ieee.org/document/9912289)
-- [QCE'23] [Zhan et al., "Quantum Sensor Network Algorithms for Transmitter Localization"](https://ieeexplore.ieee.org/abstract/document/10313806)
-<details>
-  <summary>Manuscripts</summary>
-
-  ## Manuscripts
-
-  - [Yun et al., "Projection Valued Measure-based Quantum Machine Learning for Multi-Class Classification"](https://arxiv.org/abs/2210.16731)
-  - [Yun et al., "Quantum Multi-Agent Meta Reinforcement Learning"](https://arxiv.org/abs/2208.11510)
-
-</details>
-
-
-
 ## Dependencies
 
 - 3.9 >= Python >= 3.7 (Python 3.10 may have the `concurrent` package issue for Qiskit)
