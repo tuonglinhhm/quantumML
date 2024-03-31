@@ -86,7 +86,9 @@ print(tq.measure(x, n_shots=2048))
 
 * [QNN for MNIST](examples/mnist) 
 
-* [Quantum CNN)](examples/quanvolution)
+* [Classic CNN](examples/classic-cnn) 
+
+* [Quantum CNN)](examples/quantum-cnn)
 
 * [Quantum Regression](examples/regression)
 
