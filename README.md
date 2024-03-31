@@ -1,7 +1,6 @@
 
 ## Installation [use Torchquantum library]
 
-
 ## Basic Usage
 
 ```python
@@ -83,15 +82,16 @@ print(tq.measure(x, n_shots=2048))
  -->
 
 
-## Guide to the examples
+## Typical examples
 
-** [QNN for MNIST](examples/mnist) 
+* [QNN for MNIST](examples/mnist) 
 
-** [Quantum CNN)](examples/quanvolution)
+* [Quantum CNN)](examples/quanvolution)
 
-** [Quantum Regression](examples/regression)
+* [Quantum Regression](examples/regression)
 
-** [VQE](examples/vqe)
+* [VQE](examples/vqe)
+
 
 
 ## Usage
