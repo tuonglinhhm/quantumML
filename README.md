@@ -1,5 +1,5 @@
 
-## Installation [Original librabry from Torchquantum
+## Installation [Original library from Torchquantum]
 ```bash
 git clone https://github.com/mit-han-lab/torchquantum.git
 cd torchquantum
