@@ -1,4 +1,4 @@
-# Quantum Convolution
+# Quantum CNN
 ## Quantum CNN for MNIST image classification
 
 
@@ -19,7 +19,7 @@ You can learn how to build, train and evaluate a quanvolutional filter using Tor
 
 [comment]: <> (#%% md)
 
-## Introduction to Quanvolutional Neural Network.
+## Introduction to QNN.
 ### Convolutional Neural Network
 Convolutional neural network is a classic neural network genre, mostly applied to anylize visual images. They are known for their convolutional layers that perform convolution. Typically the convolution operation is the Frobenius inner product of the convolution filter with the input image followed by an activation function. The convolution filter slides along the input image and generates a feature map. We can use the feature map for classification.
 

@@ -87,11 +87,11 @@ print(tq.measure(x, n_shots=2048))
 
 ** [QNN for MNIST](examples/mnist) 
 
-**[Quantum CNN)](examples/quanvolution)
+** [Quantum CNN)](examples/quanvolution)
 
-**[Quantum Regression](examples/regression)
+** [Quantum Regression](examples/regression)
 
-**[VQE](examples/vqe)
+** [VQE](examples/vqe)
 
 
 ## Usage
